@@ -1,6 +1,6 @@
 # 🚀 WordPress Deployment on AWS using Terraform
 
-![WordPress deployment architecture on AWS](image-7.png)
+![WordPress deployment architecture on AWS](images/image-7.png)
 
 This project provisions a fully functional WordPress environment on AWS using **Infrastructure as Code (Terraform)**.
 
@@ -77,9 +77,9 @@ http://52.3.47.141
 Note: HTTP only — HTTPS was not configured as this project was built within AWS Free Tier constraints.
 
 Proof of Successful Deployment
-![Wordpress](image-4.png)
-![Installed Wordpress](image-5.png)
-![Wordpress Dashboard](image-6.png)
+![Wordpress](images/image-4.png)
+![Installed Wordpress](images/image-5.png)
+![Wordpress Dashboard](images/image-6.png)
 
 Security Configuration
 

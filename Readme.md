@@ -1,6 +1,6 @@
 # 🚀 WordPress Deployment on AWS using Terraform
 
-![WordPress deployment architecture on AWS](images/image-7.png)
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/bb60f7a1-522b-42e6-9cd6-f67abad66636" />
 
 This project provisions a fully functional WordPress environment on AWS using **Infrastructure as Code (Terraform)**.
 
@@ -127,4 +127,5 @@ This project was built as part of hands-on AWS and Terraform learning to demonst
 Cloud infrastructure automation
 Secure production-style deployment
 Infrastructure debugging and recovery
+
 Cost-aware cloud engineering practices
